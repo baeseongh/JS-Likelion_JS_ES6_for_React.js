@@ -1,4 +1,4 @@
-# React with Django - 리액트를 위한 ES6 JS 문법 정리 (멋쟁이 사자처럼 7기)
+# React with Django - 리액트를 위한 ES6 JS 문법 정리
 
 ## 1. Jsx, Javascript(Arrow Function)
 
